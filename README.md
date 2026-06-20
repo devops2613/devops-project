@@ -1,4 +1,4 @@
-# 🚀 **DevOps Project: ZOMATO Clone App Deployment**
+# 🚀 **DevOps Project: App Deployment**
 
 In this **DevOps project**, I demonstrate how to **deploy App** using a variety of modern DevOps tools and services.
 
