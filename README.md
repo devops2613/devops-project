@@ -22,3 +22,12 @@ In this **DevOps project**, I demonstrate how to **deploy App** using a variety 
 1. **Stage 1** - Deployment of App to Docker Container
 2. **Stage 2** - Deployment of App to K8S Cluster with Monitoring
 
+---
+
+## My First Fork Contribution
+
+Hello! I am learning Git and GitHub.
+
+This is my first Fork Workflow assignment.
+I have created a fork, cloned the repository,
+and made my first contribution.
